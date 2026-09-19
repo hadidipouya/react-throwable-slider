@@ -5,7 +5,7 @@ A playful, physics-driven slingshot slider component for **React** and **Tailwin
 Slide normally along the horizontal track for precise adjustments, or pull down to slingshot the knob across the trajectory arc!
 
 <div align="center">
-  <video src="./throwable-slider-demo.mp4" controls="controls" muted="muted" width="100%"></video>
+  <img src="./throwable-slider-demo.gif" alt="react-throwable-slider demo" width="100%" />
 </div>
 
 ---
